@@ -85,11 +85,22 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'cheatSheetsSidebar',
           position: 'left',
-          label: 'Documents',
+          label: 'Cheat Sheets',
         },
-        // {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          type: 'docSidebar',
+          sidebarId: 'interviewPrepSidebar',
+          position: 'left',
+          label: 'Interview Prep',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'awsSidebar',
+          position: 'left',
+          label: 'AWS',
+        },
         {
           href: 'https://github.com/pohti/my-notes',
           label: 'GitHub',

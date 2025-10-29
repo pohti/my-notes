@@ -1,4 +1,4 @@
-# Golang
+# Go
 
 ## Table of Contents
 - [Basic Concepts](#basic-concepts)
