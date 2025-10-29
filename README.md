@@ -1,6 +1,8 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+A collection of cheatsheets and interview prep materials. Powered by [Docusaurus](https://docusaurus.io/).
+
+Link to website: https://my-notes-topaz-theta.vercel.app/
 
 ## Installation
 
