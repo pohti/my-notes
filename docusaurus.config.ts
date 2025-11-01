@@ -99,6 +99,12 @@ const config: Config = {
           label: 'AWS',
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'architectureSidebar',
+          position: 'left',
+          label: 'Architecture and Design',
+        },
+        {
           href: 'https://github.com/pohti/my-notes',
           label: 'GitHub',
           position: 'right',
