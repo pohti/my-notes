@@ -1,6 +1,6 @@
 # Lambda
 
-## 🔹 1. Basics
+## 1. Basics
 
 ### **Q1. What is AWS Lambda?**
 
@@ -25,7 +25,7 @@ You upload your code, and Lambda automatically runs it **in response to events**
 
 ---
 
-## 🔹 2. Core Concepts
+## 2. Core Concepts
 
 ### **Q3. What are the main components of Lambda?**
 
@@ -49,7 +49,7 @@ There’s no manual scaling — AWS handles concurrency automatically (up to acc
 
 ---
 
-## 🔹 3. Function Configuration
+## 3. Function Configuration
 
 ### **Q5. What are key configuration settings for a Lambda function?**
 
@@ -77,7 +77,7 @@ There’s no manual scaling — AWS handles concurrency automatically (up to acc
 
 ---
 
-## 🔹 4. Invocation & Triggers
+## 4. Invocation & Triggers
 
 ### **Q7. What are the types of invocation in Lambda?**
 
@@ -112,7 +112,7 @@ Lambda integrates with many AWS services, e.g.:
 
 ---
 
-## 🔹 5. Security
+## 5. Security
 
 ### **Q10. How does IAM work with Lambda?**
 
@@ -134,7 +134,7 @@ This role should have the **least privilege** necessary (e.g., only read/write t
 
 ---
 
-## 🔹 6. Networking
+## 6. Networking
 
 ### **Q12. Can Lambda run inside a VPC?**
 
@@ -150,7 +150,7 @@ When you attach a VPC:
 
 ---
 
-## 🔹 7. Performance & Scaling
+## 7. Performance & Scaling
 
 ### **Q13. What are Cold Starts and Warm Starts?**
 
@@ -175,7 +175,7 @@ Useful for latency-sensitive apps (APIs, chatbots, etc.).
 
 ---
 
-## 🔹 8. Monitoring & Logging
+## 8. Monitoring & Logging
 
 ### **Q15. How do you monitor AWS Lambda?**
 
@@ -200,7 +200,7 @@ Useful for latency-sensitive apps (APIs, chatbots, etc.).
 
 ---
 
-## 🔹 9. Development & Deployment
+## 9. Development & Deployment
 
 ### **Q17. How can you deploy Lambda functions?**
 
@@ -245,7 +245,7 @@ A shared layer for Python dependencies like `requests` or `boto3`.
 
 ---
 
-## 🔹 10. Integration & Event Patterns
+## 10. Integration & Event Patterns
 
 ### **Q21. How does Lambda integrate with API Gateway?**
 
@@ -276,7 +276,7 @@ You can trigger a Lambda when:
 
 ---
 
-## 🔹 11. Error Handling & Retries
+## 11. Error Handling & Retries
 
 ### **Q24. How do you handle Lambda errors?**
 
@@ -297,7 +297,7 @@ You can reprocess or analyze failed events later.
 
 ---
 
-## 🔹 12. Cost Optimization
+## 12. Cost Optimization
 
 ### **Q26. How is Lambda priced?**
 
@@ -322,7 +322,7 @@ You pay for:
 
 ---
 
-## 🔹 13. Troubleshooting
+## 13. Troubleshooting
 
 ### **Q28. Why might your Lambda be timing out?**
 
@@ -356,7 +356,7 @@ AWS either:
 
 ---
 
-## 🔹 14. Real-world Architecture Questions
+## 14. Real-world Architecture Questions
 
 ### **Q31. How would you use Lambda for a web application?**
 

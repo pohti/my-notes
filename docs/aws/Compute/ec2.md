@@ -1,6 +1,6 @@
 # EC2
 
-## 🔹 1. Basics
+## 1. Basics
 
 ### **Q1. What is Amazon EC2?**
 
@@ -49,7 +49,7 @@ Instance types define **CPU, memory, storage, and network capacity**. Categories
 
 ---
 
-## 🔹 2. Storage
+## 2. Storage
 
 ### **Q5. What are the types of storage available for EC2?**
 
@@ -72,7 +72,7 @@ Instance types define **CPU, memory, storage, and network capacity**. Categories
 
 ---
 
-## 🔹 3. Networking
+## 3. Networking
 
 ### **Q7. What is a VPC in EC2?**
 
@@ -102,7 +102,7 @@ You control IP ranges, subnets, route tables, NAT gateways, and security groups.
 
 ---
 
-## 🔹 4. Security
+## 4. Security
 
 ### **Q10. What are key pairs in EC2?**
 
@@ -128,7 +128,7 @@ An **IAM Role** is attached to an instance to grant permissions (e.g., S3 read a
 
 ---
 
-## 🔹 5. Monitoring & Scaling
+## 5. Monitoring & Scaling
 
 ### **Q13. How do you monitor EC2 performance?**
 
@@ -159,7 +159,7 @@ Types:
 
 ---
 
-## 🔹 6. Advanced Topics
+## 6. Advanced Topics
 
 ### **Q16. What happens when an EC2 instance fails?**
 
@@ -218,7 +218,7 @@ systemctl start nginx
 
 ---
 
-## 🔹 7. Troubleshooting
+## 7. Troubleshooting
 
 ### **Q21. Why can’t you SSH into an EC2 instance?**
 

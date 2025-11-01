@@ -1,6 +1,6 @@
 # ECS
 
-## 🔹 1. Basics
+## 1. Basics
 
 ### **Q1. What is Amazon ECS?**
 
@@ -26,7 +26,7 @@ It supports both:
 
 ---
 
-## 🔹 2. Launch Types
+## 2. Launch Types
 
 ### **Q3. What are the ECS launch types?**
 
@@ -49,7 +49,7 @@ It supports both:
 
 ---
 
-## 🔹 3. Tasks and Services
+## 3. Tasks and Services
 
 ### **Q5. What is a Task Definition in ECS?**
 
@@ -99,7 +99,7 @@ Example (simplified):
 
 ---
 
-## 🔹 4. Networking
+## 4. Networking
 
 ### **Q8. What are ECS networking modes?**
 
@@ -122,7 +122,7 @@ ECS integrates with **Elastic Load Balancing (ELB)**:
 
 ---
 
-## 🔹 5. Storage & Data
+## 5. Storage & Data
 
 ### **Q10. How do containers persist data in ECS?**
 
@@ -134,7 +134,7 @@ ECS integrates with **Elastic Load Balancing (ELB)**:
 
 ---
 
-## 🔹 6. Security
+## 6. Security
 
 ### **Q11. What IAM roles are used in ECS?**
 
@@ -156,7 +156,7 @@ ECS integrates with **Elastic Load Balancing (ELB)**:
 
 ---
 
-## 🔹 7. Monitoring & Logging
+## 7. Monitoring & Logging
 
 ### **Q13. How do you monitor ECS?**
 
@@ -193,7 +193,7 @@ Example task definition log config:
 
 ---
 
-## 🔹 8. Integration
+## 8. Integration
 
 ### **Q15. How does ECS integrate with ECR?**
 
@@ -215,7 +215,7 @@ You grant permissions using an **IAM role or policy**.
 
 ---
 
-## 🔹 9. Deployment & Updates
+## 9. Deployment & Updates
 
 ### **Q17. How do you deploy updates in ECS?**
 
@@ -237,7 +237,7 @@ You grant permissions using an **IAM role or policy**.
 
 ---
 
-## 🔹 10. Troubleshooting
+## 10. Troubleshooting
 
 ### **Q19. Why might an ECS task fail to start?**
 
@@ -263,7 +263,7 @@ You grant permissions using an **IAM role or policy**.
 
 ---
 
-## 🔹 11. Cost Optimization
+## 11. Cost Optimization
 
 ### **Q21. How do you optimize ECS costs?**
 
@@ -277,7 +277,7 @@ You grant permissions using an **IAM role or policy**.
 
 ---
 
-## 🔹 12. Real-world Scenarios
+## 12. Real-world Scenarios
 
 ### **Q22. When would you choose ECS over EKS?**
 
